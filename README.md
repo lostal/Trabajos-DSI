@@ -12,4 +12,3 @@ Esta entrega se centra en el análisis de la huella digital y la salud digital, 
 
 Grupo 8 - Dirección de Sistemas de Información
 
-cialqiero cosa
