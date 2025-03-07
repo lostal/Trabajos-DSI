@@ -6,7 +6,7 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 ### EgoSurfing
 
-![EgoSurfing](/investigaciones/individuales/2022020011/EgoSurfing.png)
+![EgoSurfing](/investigaciones/individual/2022020011/EgoSurfing.png)
 
 ## Análisis de plataformas
 
