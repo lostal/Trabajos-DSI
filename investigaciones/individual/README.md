@@ -8,3 +8,4 @@
 | [2022020044](/investigaciones/individual/2022020044/README.md) |
 | [2022030024](/investigaciones/individual/2022030024/README.md) |
 | [2022030086](/investigaciones/individual/2022030086/README.md) |
+| [2021030254](/investigaciones/individual/2022030086/README.md) |
