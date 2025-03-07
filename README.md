@@ -13,7 +13,7 @@ Esta entrega se centra en el análisis de la huella digital y la salud digital, 
 
 ## 📂 Índice de Contenidos
 - **🔎 Ingestigaciones**
-    - [👤 Indiviaual](./investigaciones/individuales/README.md)
+    - [👤 Indiviaual](./investigaciones/individual/README.md)
     - [👥 Grupal](./investigaciones/grupal/README.md)
 - **📒 Entregables** 
     - [📝 Documento Final](./entregables/documento-final/readme.md)

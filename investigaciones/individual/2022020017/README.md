@@ -2,7 +2,7 @@
 
  ## Egosurfing
 
- ![EgoSurfing](/investigaciones/individuales/2022020017/egoSurfing.png)
+ ![EgoSurfing](/investigaciones/individual/2022020017/egoSurfing.png)
 
  ## Análisis de plataformas
 
