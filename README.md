@@ -10,5 +10,11 @@ Esta entrega se centra en el análisis de la huella digital y la salud digital, 
 
 ---
 
+## Índice de contenidos
+
+- [Indiviauales](./individuales)
+
+---
+
 Grupo 8 - Dirección de Sistemas de Información
 
