@@ -11,8 +11,6 @@ Esta entrega se centra en el análisis de la huella digital y la salud digital, 
 - **Identificar la huella digital:** Examinar y caracterizar la presencia digital de entidades o usuarios.
 - **Evaluar la salud digital:** Analizar factores que afectan la integridad y seguridad en el ámbito digital.
 
----
-
 ## 📂 Índice de Contenidos
 - **🔎 Ingestigaciones**
     - [👤 Indiviaual](./investigaciones/individuales/README.md)
