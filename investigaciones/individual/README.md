@@ -18,27 +18,21 @@ _Cada miembro ha realizado un análisis completo de su huella digital siguiendo 
 | [2022030024](/investigaciones/individual/2022030024/README.md) |
 | [2022030086](/investigaciones/individual/2022030086/README.md) |
 
-## 🧩 Componentes del Análisis Individual
+## ⚙ Componentes del Análisis Individual
 
 ### 🔎 EgoSurfing y Búsquedas
-<details>
-<summary>Ver metodología completa</summary>
 
 | Categoría              | Herramientas/Plataformas                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------|
 | **Motores de búsqueda** | Google, Bing, DuckDuckGo, Brave                                                        |
 | **LLMs consultados**    | ChatGPT, Gemini, GitHub Copilot, Deepseek                                              |
-</details>
 
 ### 🌐 Análisis de Plataformas
-<details>
-<summary>Ver lista completa de plataformas</summary>
 
 | Tipo de Plataforma      | Analizadas                                                                               |
 |-------------------------|-----------------------------------------------------------------------------------------|
 | **Redes tradicionales** | Facebook, Instagram, LinkedIn, X (Twitter)                                             |
 | **Plataformas nuevas**  | BeReal, Threads, Mastodon, Discord, Bluesky                                            |
-</details>
 
 ### 🔒 Verificación de Seguridad
 - Comprobación en ![HaveIBeenPwned](https://img.shields.io/badge/Have_I_Been_Pwned-2A6379?logo=haveibeenpwned&logoColor=white)
