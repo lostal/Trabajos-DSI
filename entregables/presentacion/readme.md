@@ -1,1 +1,1 @@
-Sustituir readme.md por el archivo de presentación fina;
+Sustituir readme.md por el archivo de presentación final
