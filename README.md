@@ -1,17 +1,18 @@
-# 🚀 Dirección de Sistemas de Información - Grupo 8
+<div align="center">
 
-[![Rama Principal](https://img.shields.io/badge/Main%20Branch-Stable-brightgreen)](https://github.com/lostal/Trabajos-DSI/tree/main)
-[![Entrega 003](https://img.shields.io/badge/Entrega%20003-In%20Development-orange)](https://github.com/lostal/Trabajos-DSI/tree/entrega003)
+# 💻 Dirección de Sistemas de Información
+
+</div>
 
 Repositorio del **Grupo 8** para la asignatura *Dirección de Sistemas de Información*.
 
-## 🌿 Estructura del Repositorio
+## 🗂️ Estructura del Repositorio
 
-### 🧪 Ramas Activas
+### 🔀 Ramas Activas
 | Rama | Estado | Descripción | Enlace |
 |------|--------|-------------|--------|
-| `main` | ![Protected](https://img.shields.io/badge/🔒-Protected-blue) | Rama principal | - |
-| `entrega003` | ![Development](https://img.shields.io/badge/🚧-En%20desarrollo-orange) | Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/lostal/Trabajos-DSI/tree/entrega003) |
+| `main` | ![Main](https://img.shields.io/badge/🔒-Principal-blue) | Rama principal | - |
+| `entrega003` | ![Development](https://img.shields.io/badge/🚧-En%20desarrollo-red) | Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/lostal/Trabajos-DSI/tree/entrega003) |
 
 ---
     
