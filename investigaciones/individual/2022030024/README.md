@@ -46,11 +46,12 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
    - `janagandarillas` como username principal en:
      - GitHub (`janagandarillas`)
-     - Snapchat (`janagadarillas`)
+     - Snapchat (`janagandarillas`)
 
 2. **Conexiones específicas**:
    - **TikTok → Instagram**: 
         - La cuenta de TikTok (@janagndrlls) contiene enlace directo al perfil de Instagram (`janagndrlls`)
+          
 **Conclusión**
    - Siempre uso mi nombre y apellido como usuario.
      
