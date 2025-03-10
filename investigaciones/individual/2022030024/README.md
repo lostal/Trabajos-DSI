@@ -1,3 +1,6 @@
+
+[Jana egoSurfing 🌡️ - IndiceDeExposición.pdf](https://github.com/user-attachments/files/19162267/Jana.egoSurfing.-.IndiceDeExposicion.pdf)
+
 Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 EgoSurfing
