@@ -70,7 +70,7 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encon
 |-----------------------|----------------------|-----------------|-------------------|
 | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Insta" width="50"></p> | Ubicación (Al usarse), Contactos, Fotos, Micrófono, Cámara | Alto | Limitar accesos innecesarios |
 | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="WhatsApp" width="50"></p> | Ubicación (Al usarse), Contactos, Fotos, Bluetooth, Micrófono, Cámara | Muy alto | Desactivar todos los permisos que se utilizan cuando estoy fuera de la aplicación |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/640px-Google_Maps_icon_%282015-2020%29.svg.png" alt="Google Maps" width="50"></p> | Ubicación (Al usarse), Multimedia | Bajo | Al desactivar la cronología de la cuenta de Google, el riesgo baja significativamente |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/640px-Google_Maps_icon_%282015-2020%29.svg.png" alt="Google Maps" width="50"></p> | Ubicación (Al usarse) | Bajo | No comparto muchos datos y al desactivar la cronología de la cuenta de Google, el riesgo baja significativamente |
 
 
 ### Interacciones con IA
