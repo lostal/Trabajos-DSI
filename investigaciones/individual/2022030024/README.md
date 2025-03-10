@@ -79,4 +79,4 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encon
 ### Interacciones con IA
 | Plataforma IA | Tipo de Interacción | Datos Compartidos | Configuración Privacidad |
 |---------------|---------------------|--------------------|--------------------------|
-| **ChatGPT** | Consultas académicas  | Textos y PowerPoints académicos | No se alamcenan datos una vez termina la sesión |
+| **ChatGPT** | Consultas académicas  | Textos y PowerPoints académicos | No se almacenan datos una vez termina la sesión |
