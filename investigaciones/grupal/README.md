@@ -1,3 +1,5 @@
+<img width="1049" alt="Captura de pantalla 2025-03-10 a las 13 17 29" src="https://github.com/user-attachments/assets/a6178edf-1b65-4c5c-9fd2-991e59c51ae3" />
+
 # Análisis grupal
 
 ## Consolidación de datos
