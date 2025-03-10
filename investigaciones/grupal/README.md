@@ -15,11 +15,11 @@
 
 | Métrica                        | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Patrón grupal<br>(Media y desviación) |
 |--------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------------------------------------|
-| Índice de exposición global    |       |       | 0,30  |       |       |       |       |       |                                       |
-| Nº total de hallazgos          |       |       | 10    |       |       |       |       |       |                                       |
-| % hallazgos en control total   |       |       | 40%   |       |       |       |       |       |                                       |
-| % hallazgos en control parcial |       |       | 0%    |       |       |       |       |       |                                       |
-| % hallazgos sin control        |       |       | 60%   |       |       |       |       |       |                                       |
+| Índice de exposición global    |       |       | 0,30  |       |       |       | 0,30  |       |                                       |
+| Nº total de hallazgos          |       |       | 10    |       |       |       |  10   |       |                                       |
+| % hallazgos en control total   |       |       | 40%   |       |       |       | 30%   |       |                                       |
+| % hallazgos en control parcial |       |       | 0%    |       |       |       |  0%   |       |                                       |
+| % hallazgos sin control        |       |       | 60%   |       |       |       | 70%   |       |                                       |
 
 </div>
 
@@ -29,11 +29,11 @@
 
 | Plataforma       | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Total grupo |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------------|
-| Redes Sociales  |       |       | 4     |       |       |       |    1   |       |             |
+| Redes Sociales  |       |       | 4     |       |       |       |    2   |       |             |
 | Foros/Blogs     |       |       | 0     |       |       |       |    0   |       |             |
-| Noticias        |       |       | 1    |       |       |       |    0   |       |         
+| Noticias        |       |       | 1     |       |       |       |    0   |       |         
 |
-| Documentos      |       |       | 0     |       |       |       |  4|       |             |
+| Documentos      |       |       | 0     |       |       |       |  4     |       |             |
 | Imágenes        |       |       | 1     |       |       |       |  0     |       |             |
 | Otros           |       |       | 4     |       |       |       |  4     |       |             |
 
