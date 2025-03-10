@@ -13,11 +13,11 @@
 
 | Métrica                        | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Patrón grupal<br>(Media y desviación) |
 |--------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------------------------------------|
-| Índice de exposición global    |       |       |       |       |       |       |       |       |                                       |
-| Nº total de hallazgos          |       |       |       |       |       |       |       |       |                                       |
-| % hallazgos en control total   |       |       |       |       |       |       |       |       |                                       |
-| % hallazgos en control parcial |       |       |       |       |       |       |       |       |                                       |
-| % hallazgos sin control        |       |       |       |       |       |       |       |       |                                       |
+| Índice de exposición global    |       |       | 0,30  |       |       |       |       |       |                                       |
+| Nº total de hallazgos          |       |       | 10    |       |       |       |       |       |                                       |
+| % hallazgos en control total   |       |       | 40%   |       |       |       |       |       |                                       |
+| % hallazgos en control parcial |       |       | 0%    |       |       |       |       |       |                                       |
+| % hallazgos sin control        |       |       | 60%   |       |       |       |       |       |                                       |
 
 </div>
 
@@ -27,12 +27,12 @@
 
 | Plataforma       | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Total grupo |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------------|
-| Redes Sociales  |       |       |       |       |       |       |       |       |             |
-| Foros/Blogs     |       |       |       |       |       |       |       |       |             |
-| Noticias        |       |       |       |       |       |       |       |       |             |
-| Documentos      |       |       |       |       |       |       |       |       |             |
-| Imágenes        |       |       |       |       |       |       |       |       |             |
-| Otros           |       |       |       |       |       |       |       |       |             |
+| Redes Sociales  |       |       | 4     |       |       |       |       |       |             |
+| Foros/Blogs     |       |       | 0     |       |       |       |       |       |             |
+| Noticias        |       |       | 1     |       |       |       |       |       |             |
+| Documentos      |       |       | 0     |       |       |       |       |       |             |
+| Imágenes        |       |       | 1     |       |       |       |       |       |             |
+| Otros           |       |       | 4     |       |       |       |       |       |             |
 
 </div>
 
@@ -40,14 +40,14 @@
 
 <div align=center>
 
-| Vulnerabilidad            | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo medio |
-|---------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|--------------|
+| Vulnerabilidad             | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo medio |
+|----------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|--------------|
 | Datos personales expuestos |       |       |       |       |       |       |       |       |         |              |
 | Información profesional    |       |       |       |       |       |       |       |       |         |              |
-| Fotos personales          |       |       |       |       |       |       |       |       |         |              |
-| Menciones en medios       |       |       |       |       |       |       |       |       |         |              |
-| Documentos académicos     |       |       |       |       |       |       |       |       |         |              |
-| Perfiles abandonados      |       |       |       |       |       |       |       |       |         |              |
+| Fotos personales           |       |       |       |       |       |       |       |       |         |              |
+| Menciones en medios        |       |       |       |       |       |       |       |       |         |              |
+| Documentos académicos      |       |       |       |       |       |       |       |       |         |              |
+| Perfiles abandonados       |       |       |       |       |       |       |       |       |         |              |
 
 </div>
 
@@ -56,9 +56,9 @@
 <div align=center>
 
 | Tipo de control | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo promedio |
-|----------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|----------------|
-| Total         |       |       |       |       |       |       |       |       |         |                |
-| Parcial       |       |       |       |       |       |       |       |       |         |                |
-| Nulo          |       |       |       |       |       |       |       |       |         |                |
+|-----------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|-----------------|
+| Total           |       |       | 40%   |       |       |       |       |       |         |                 |
+| Parcial         |       |       | 0%    |       |       |       |       |       |         |                 |
+| Nulo            |       |       | 60%   |       |       |       |       |       |         |                 |
 
 </div>
