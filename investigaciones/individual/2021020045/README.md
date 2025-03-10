@@ -27,3 +27,21 @@
 | Threads    | Si        | rene_isj | Cuenta solo para entretenimiento (Muy poco uso) |
 | Mastodon   | No        | ---      | ---                                             |
 | Discord    | Si        | Mr_Rene  | Se utiliza solo para cuando juego con amigos    |
+| Tiktok     | Si        | rene_isj | Cuenta utilizada para entretenimiento           |
+
+### Alias y usuarios detectados
+
+- Foros especializados
+  | Plataforma | Usuario | Observaciones |
+  |------------|---------|---------------|
+  | Github | juanixcopal | Cuenta utilizada para trabajos de la carrera |
+  | Reddit | reneisj | Cuenta para noticias e información en específica |
+
+### Interconexión entre plataformas
+
+| Conexión detectada                             | Descripción                                                          |
+| ---------------------------------------------- | -------------------------------------------------------------------- |
+| Mismo usuario en Instagram, X, Threads, TikTok | Facilita encontrar mi presencia en varias redes                      |
+| Threads e Instagram                            | Threads se gestiona desde Instagram al ser ambas plataformas de Meta |
+| Reddit y Discord                               | Interacción en comunidades sobre temas de interés (juegos, noticias) |
+| Discord y TikTok                               | Se comparten clips de juegos en mi cuenta de tiktok para streams     |
