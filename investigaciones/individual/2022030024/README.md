@@ -1,5 +1,5 @@
+<img width="1049" alt="Captura de pantalla 2025-03-10 a las 13 17 29" src="https://github.com/user-attachments/assets/1e24b2e0-afe0-4aeb-84e3-54911ccde7c1" />
 
-[Jana egoSurfing 🌡️ - IndiceDeExposición.pdf](https://github.com/user-attachments/files/19162267/Jana.egoSurfing.-.IndiceDeExposicion.pdf)
 
 Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
