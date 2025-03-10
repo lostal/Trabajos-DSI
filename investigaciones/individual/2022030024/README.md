@@ -32,8 +32,8 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 ### Alias y Usuarios Detectados
 - **Foros especializados**: 
-  - **GitHub**: lostal
-    *(Cuenta de GitHub usada para la carrera)*
+  - **GitHub**: janagandarillas
+    *(Cuenta de GitHub usada en la universidad)*
     
   
 - **Plataformas gaming**:
