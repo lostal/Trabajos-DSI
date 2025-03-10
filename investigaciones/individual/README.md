@@ -9,7 +9,8 @@ _Cada miembro ha realizado un análisis completo de su huella digital siguiendo 
 ## 👥 Investigaciones por Miembro
 
 | Código de Estudiante                                           |
-| -------------------------------------------------------------- |
+|----------------------------------------------------------------|
+| [2021020045](/investigaciones/individual/2021020045/README.md) |
 | [2021030254](/investigaciones/individual/2021030254/README.md) |
 | [2022020011](/investigaciones/individual/2022020011/README.md) |
 | [2022020017](/investigaciones/individual/2022020017/README.md) |
@@ -17,7 +18,6 @@ _Cada miembro ha realizado un análisis completo de su huella digital siguiendo 
 | [2022020044](/investigaciones/individual/2022020044/README.md) |
 | [2022030024](/investigaciones/individual/2022030024/README.md) |
 | [2022030086](/investigaciones/individual/2022030086/README.md) |
-| [2021020045](/investigaciones/individual/2021020045/README.md) |
 
 ## ⚙ Componentes del Análisis Individual
 
