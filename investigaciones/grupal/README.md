@@ -1,4 +1,4 @@
-<img width="1049" alt="Captura de pantalla 2025-03-10 a las 13 17 29" src="https://github.com/user-attachments/assets/a6178edf-1b65-4c5c-9fd2-991e59c51ae3" />
+
 
 # Análisis grupal
 
@@ -17,9 +17,9 @@
 |--------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------------------------------------|
 | Índice de exposición global    |       |       | 0,30  |       |       |       |       |       |                                       |
 | Nº total de hallazgos          |       |       | 10    |       |       |       |       |       |                                       |
-| % hallazgos en control total   |       |       | 30%   |       |       |       |       |       |                                       |
+| % hallazgos en control total   |       |       | 40%   |       |       |       |       |       |                                       |
 | % hallazgos en control parcial |       |       | 0%    |       |       |       |       |       |                                       |
-| % hallazgos sin control        |       |       | 70%   |       |       |       |       |       |                                       |
+| % hallazgos sin control        |       |       | 60%   |       |       |       |       |       |                                       |
 
 </div>
 
@@ -29,13 +29,13 @@
 
 | Plataforma       | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Total grupo |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------------|
-| Redes Sociales  |       |       | 1     |       |       |       |       |       |             |
-| Foros/Blogs     |       |       | 0     |       |       |       |       |       |             |
-| Noticias        |       |       | 0    |       |       |       |       |       |         
+| Redes Sociales  |       |       | 4     |       |       |       |    1   |       |             |
+| Foros/Blogs     |       |       | 0     |       |       |       |    0   |       |             |
+| Noticias        |       |       | 1    |       |       |       |    0   |       |         
 |
-| Documentos      |       |       | 4     |       |       |       |       |       |             |
-| Imágenes        |       |       | 0     |       |       |       |       |       |             |
-| Otros           |       |       | 4     |       |       |       |       |       |             |
+| Documentos      |       |       | 0     |       |       |       |  4|       |             |
+| Imágenes        |       |       | 1     |       |       |       |  0     |       |             |
+| Otros           |       |       | 4     |       |       |       |  4     |       |             |
 
 </div>
 
@@ -60,8 +60,8 @@
 
 | Tipo de control | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo promedio |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|-----------------|
-| Total           |       |       | 30%   |       |       |       |       |       |         |                 |
-| Parcial         |       |       | 0%    |       |       |       |       |       |         |                 |
-| Nulo            |       |       | 70%   |       |       |       |       |       |         |                 |
+| Total           |       |       | 40%   |       |       |       |   30%    |       |         |                 |
+| Parcial         |       |       | 0%    |       |       |       |    0%   |       |         |                 |
+| Nulo            |       |       | 60%   |       |       |       |   70%    |       |         |                 |
 
 </div>
