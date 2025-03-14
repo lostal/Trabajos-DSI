@@ -10,17 +10,17 @@
 | Plataforma   | Presencia | Usuario        | Observaciones |
 |--------------|-----------|----------------|---------------|
 | Facebook     | No        | -              | -             |
-| Instagram    | Sí        |  @rauulpelayo | Mi primera red social |
-| LinkedIn     | No        |   |  |
-| X            | Sí        | -@RaulPelayo77 |             |
+| Instagram    | Sí        |  -@rauulpelayo | -Mi primera red social |
+| LinkedIn     | No        |   | - |
+| X            | Sí        | -@RaulPelayo77 |        -     |
 
 ### Plataformas Emergentes
 | Plataforma   | Presencia | Usuario     | Observaciones |
 |--------------|-----------|-------------|---------------|
 | BeReal       | No       | -           |  |
-| Threads      | Si        | -@rauulpelayo           |               |
+| Threads      | Si        | -@rauulpelayo           |       -        |
 | Mastodon     | No        | -           | -             |
-| Discord      | No        |  |  |
+| Discord      | No        | - | - |
 
 
 ## Verificación de seguridad
