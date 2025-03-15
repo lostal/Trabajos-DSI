@@ -2,10 +2,10 @@
 
 ## Análisis básico
 
-https://github.com/lostal/Trabajos-DSI/blob/entrega003/investigaciones/individual/2021030254/EGOSURFING.png
 
 ### EgoSurfing
 
+![EgoSurfing](/investigaciones/individual/2021030254/EGOSURFING.png)
 
 ## Análisis de plataformas
 
