@@ -2,7 +2,7 @@
 
 ## Análisis básico
 
-Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
+https://github.com/lostal/Trabajos-DSI/blob/entrega003/investigaciones/individual/2021030254/EGOSURFING.png
 
 ### EgoSurfing
 
