@@ -40,16 +40,19 @@
 
 ### Matriz de vulnerabilidades comunes
 
+> [!NOTE]  
+> 🟢 Bajo riesgo/impacto / 🟡 Riesgo/impacto moderado / 🔴 Alto riesgo/impacto
+
 <div align=center>
 
 | Vulnerabilidad             | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo medio |
 |----------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|--------------|
-| Datos personales expuestos |       |       | 62%   |       |       |       |       |       |         |              |
-| Información profesional    |       |       | 58%   |       |       |       |       |       |         |              |
-| Fotos personales           |       |       | 63%   |       |       |       |       |       |         |              |
-| Menciones en medios        |       |       | 10%   |       |       |       |       |       |         |              |
-| Documentos académicos      |       |       | 42%   |       |       |       |       |       |         |              |
-| Perfiles abandonados       |       |       | 35%   |       |       |       |       |       |         |              |
+| Datos personales expuestos |       |       | 🟡    |       |       |       |       |       |         |              |
+| Información profesional    |       |       | 🟡    |       |       |       |       |       |         |              |
+| Fotos personales           |       |       | 🟢    |       |       |       |       |       |         |              |
+| Menciones en medios        |       |       | No    |       |       |       |       |       |         |              |
+| Documentos académicos      |       |       | No    |       |       |       |       |       |         |              |
+| Perfiles abandonados       |       |       | 🟢    |       |       |       |       |       |         |              |
 
 </div>
 
@@ -59,8 +62,8 @@
 
 | Tipo de control | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo promedio |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|-----------------|
-| Total           |       |  30%    | 40%   | 10%   | 37,5% | 0%    | 30%   | 18,2% |         |                 |
-| Parcial         |       |   0%   | 0%    | 10%   | 12,5% | 10%   | 0%    | 9%    |         |                 |
-| Nulo            |       |  70%    | 60%   | 80%   | 50%   | 90%   | 70%   | 72,7% |         |                 |
+| Total           |       |  30%    | 🟡   | 10%   | 37,5% | 0%    | 30%   | 18,2% |         |                 |
+| Parcial         |       |   0%   | No    | 10%   | 12,5% | 10%   | 0%    | 9%    |         |                 |
+| Nulo            |       |  70%    | 🟡   | 80%   | 50%   | 90%   | 70%   | 72,7% |         |                 |
 
 </div>
