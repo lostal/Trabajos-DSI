@@ -47,9 +47,9 @@
 
 | Vulnerabilidad             | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo medio |
 |----------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|--------------|
-| Datos personales expuestos |       |       | 🟡    |   🔴    |       |       |       |       |         |              |
+| Datos personales expuestos |       |       | 🟡    |   🟢    |       |       |       |       |         |              |
 | Información profesional    |       |       | 🟡    | 🟡      |       |       |       |       |         |              |
-| Fotos personales           |       |       | 🟢    |   🔴    |       |       |       |       |         |              |
+| Fotos personales           |       |       | 🟢    |   🟢    |       |       |       |       |         |              |
 | Menciones en medios        |       |       | No    |  No     |       |       |       |       |         |              |
 | Documentos académicos      |       |       | No    |  No     |       |       |       |       |         |              |
 | Perfiles abandonados       |       |       | 🟢    |  🟢    |       |       |       |       |         |              |
