@@ -45,3 +45,17 @@
 | Threads e Instagram                            | Threads se gestiona desde Instagram al ser ambas plataformas de Meta |
 | Reddit y Discord                               | Interacción en comunidades sobre temas de interés (juegos, noticias) |
 | Discord y TikTok                               | Se comparten clips de juegos en mi cuenta de tiktok para streams     |
+
+## Verificación de seguridad
+
+### Exposición Have I Been Pwned
+
+Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) se obtuvieron los siguientes resultados:
+
+![Resultados](/investigaciones/individual/2021020045/pwned.png)
+
+### Permisos de aplicaciones
+
+| Aplicación                                                                                     | Permisos concedidos                                           | Nivel de riesgo | Acción requerida                                              |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="70"/> | Cámara, Fotos y videos, Micrófono, Notificaciones y Ubicación | Alto            | Limitar permisos solo cuando se esté utilizando la aplicación |
