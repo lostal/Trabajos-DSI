@@ -45,12 +45,12 @@
 
 | Vulnerabilidad             | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo medio |
 | -------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------- | ------------ |
-| Datos personales expuestos |       |       | 🟡    | 🟢    | 🟢    |       |       |       |         |              |
-| Información profesional    |       |       | 🟡    | 🟡    | 🟡    |       |       |       |         |              |
-| Fotos personales           |       |       | 🟢    | 🟢    | 🟢    |       |       |       |         |              |
-| Menciones en medios        |       |       | No    | No    | No    |       |       |       |         |              |
-| Documentos académicos      |       |       | No    | No    | No    |       |       |       |         |              |
-| Perfiles abandonados       |       |       | 🟢    | 🟢    | 🟡    |       |       |       |         |              |
+| Datos personales expuestos |       |       | 🟡    | 🟢    | 🟢    |       | 🟡    | 🟡    |         |              |
+| Información profesional    |       |       | 🟡    | 🟡    | 🟡    |       | No    | 🟡    |         |              |
+| Fotos personales           |       |       | 🟢    | 🟢    | 🟢    |       | 🟢    | 🟢    |         |              |
+| Menciones en medios        |       |       | No    | No    | No    |       | No    | No    |         |              |
+| Documentos académicos      |       |       | No    | No    | No    |       | 🟢    | No    |         |              |
+| Perfiles abandonados       |       |       | 🟢    | 🟢    | 🟡    |       | 🟢    | 🟢    |         |              |
 
 </div>
 
@@ -60,8 +60,8 @@
 
 | Tipo de control | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo promedio |
 | --------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------- | --------------- |
-| Total           |       | 30%   | 🟡    | 🟢    | 🟡    | 0%    | 30%   | 18,2% |         |                 |
-| Parcial         |       | 0%    | No    | 🟢    | 🟢    | 10%   | 0%    | 9%    |         |                 |
-| Nulo            |       | 70%   | 🟡    | 🔴    | 🟡    | 90%   | 70%   | 72,7% |         |                 |
+| Total           |       | 🟢    | 🟡    | 🟢    | 🟡    | No    | 🟢    | 🟢    |         |                 |
+| Parcial         |       | No    | No    | 🟢    | 🟢    | 🟢    | No    | 🟢    |         |                 |
+| Nulo            |       | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    |         |                 |
 
 </div>

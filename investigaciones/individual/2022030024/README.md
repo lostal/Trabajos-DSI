@@ -70,11 +70,6 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encon
 | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="50"></p> | Fotos, Micrófono, Cámara | Medio | - |
 | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/640px-Google_Maps_icon_%282015-2020%29.svg.png" alt="Google Maps" width="50"></p> | Ubicación (Al usarse)| Bajo | Solo tiene acceso a la ubicación |
 
-### Servicios vinculados
-| Proveedor | Aplicaciones Conectadas | Nivel de Acceso | Inicio de sesión |
-|-----------|--------------------------|-----------------|------------------|
-| **Google** |  |  |  |
-| **Apple** | |  |  |
 
 ### Interacciones con IA
 | Plataforma IA | Tipo de Interacción | Datos Compartidos | Configuración Privacidad |
