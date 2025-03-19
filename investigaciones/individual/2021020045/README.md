@@ -63,3 +63,15 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) se ob
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" width="60"/>                      | No hay permisos autorizados                                                                        | Bajo            | -------------------------                                     |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/640px-Tiktok_icon.svg.png" width="60" />             | Cámara, Fotos y videos, Micrófono                                                                  | Medio           | -------------------------                                     |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/640px-Threads_%28app%29.svg.png" width="60" /> | Notificaciones                                                                                     | Bajo            | -------------------------                                     |
+
+### Servicios vinculados
+
+| Proveedor | Aplicaciones conectadas                                                                                                                     | Nivel de acceso     | Inicio de sesión                              |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+| Google    | Cabify, Canva, ChatGPT, Glovo, Goiko, Iberia, Idealista, Instagram, Paypal, Reddit, Samsung Account, Spotify, Shein, Tiktok, Uber, Whatsapp | Lectura y escritura | 23 servicios para inicio de sesión con Google |
+
+### Servicios IA
+
+| Plataforma | Tipo de interacción               | Datos compartidos              | Configuración de privacidad |
+| ---------- | --------------------------------- | ------------------------------ | --------------------------- |
+| ChatGPT    | Consultas académicas y personales | Textos académicos y personales | Guardar datos en memoria    |
