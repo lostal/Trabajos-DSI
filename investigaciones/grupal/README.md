@@ -49,7 +49,7 @@
 | Fotos personales           |  🟢  |       |  🟢  |  🟢   | 🟢    |       |  🟢  |  🟢  |         |               |
 | Menciones en medios        |  🟡  |       |  No  |   No   | No    |       |   No  |  No  |         |               |
 | Documentos académicos      |  🟢  |       |  No  |   No   | No    |       |   🟢 |   No  |         |               |
-| Perfiles abandonados       |  🟡  |       |  🟢  |  🟢   | 🟡    |       |  🟢  |  🟢  |         |               |
+| Perfiles abandonados       |  🟡  |       |  🟢  |  🟢   | 🟡    |   No  |  🟢  |  🟢  |         |               |
 
 </div>
 
