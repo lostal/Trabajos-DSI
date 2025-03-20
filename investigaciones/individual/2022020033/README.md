@@ -4,7 +4,7 @@ Estas búsquedas se han realizado con el modo incógnito para evitar el posible 
  ## Egosurfing
 
 Estas son mis estadísticas en base a mi nombre en los principales motores de búsqueda y mi índice de seguridad:
- ![IndiceExposicion](/investigaciones/individual/2022020033/EcoSurfing.png)
+ ![IndiceExposicion](/investigaciones/individual/2022020033/EgoSurfing.png)
 ## Análisis de plataformas
 
 ### Redes Sociales Tradicionales

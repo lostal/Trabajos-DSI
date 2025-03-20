@@ -1,14 +1,12 @@
 # 2022030024
 
-
-
 ## Análisis básico
 
 Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 ### EgoSurfing
 
-<img width="1049" alt="Captura de pantalla 2025-03-10 a las 13 17 29" src="https://github.com/user-attachments/assets/1e24b2e0-afe0-4aeb-84e3-54911ccde7c1" />
+![EgoSurfing](/investigaciones/individual/2022030024/EgoSurfing.png)
 
 ## Análisis de plataformas
 
