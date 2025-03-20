@@ -2,11 +2,6 @@
 
 ## Consolidación de datos
 
-- Crear una matriz comparativa de hallazgos individuales.
-- Identificar patrones comunes.
-- Analizar vulnerabilidades compartidas.
-- Evaluar impacto de diferentes prácticas de privacidad.
-
 ### Resumen cuantitativo por miembro
 
 <div align=center>
@@ -64,3 +59,11 @@
 | Nulo            |  🔴  | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 50%  |     🔴         |
 
 </div>
+
+
+## Análisis de riesgos
+
+* Evaluar riesgos individuales vs. grupales.
+* Analizar interconexiones de datos.
+* Identificar vectores de ataque potenciales.
+* Proponer medidas de mitigación.
