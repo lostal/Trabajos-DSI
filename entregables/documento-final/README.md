@@ -1,30 +1,53 @@
-```markdown
-# Análisis de Huella & Salud Digital
+# Análisis de huella & salud digital
 
-## Resumen Ejecutivo
+## Resumen ejecutivo
 
-En un mundo donde lo digital y lo físico convergen, este proyecto aborda la importancia de comprender y gestionar nuestra huella digital. A través de un análisis individual y grupal, se identificaron patrones, riesgos y oportunidades relacionados con la identidad digital. Este documento presenta los hallazgos, análisis y recomendaciones para una gestión más segura y consciente de la privacidad en línea.
+Este informe presenta los hallazgos obtenidos tras el análisis de la huella digital de los integrantes del equipo, evaluando su presencia en línea, riesgos potenciales y medidas de mitigación. Se examinaron diversas fuentes de información accesibles públicamente para identificar el grado de exposición y posibles vulnerabilidades. A partir de estos análisis, se han formulado recomendaciones para mejorar la privacidad y seguridad digital.
 
----
 
-## Hallazgos Individuales (Anonimizados)
+## Hallazgos individuales (anonimizados)
 
-### Análisis Básico
-- **EgoSurfing**: Resultados obtenidos en buscadores y plataformas de IA generativa.
-- **Presencia en plataformas**:
-    - Redes sociales tradicionales y emergentes.
-    - Alias y usuarios detectados.
-    - Interconexión entre plataformas.
-- **Verificación de seguridad**:
-    - Exposición en brechas de datos.
-    - Permisos de aplicaciones instaladas.
-    - Servicios vinculados.
-    - Interacciones con servicios de IA.
+### Perfil 1:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
 
-> [!NOTE]  
-> Los datos individuales han sido anonimizados para proteger la privacidad de los participantes.
+### Perfil 2:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
 
----
+### Perfil 3:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
+
+### Perfil 4:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
+
+### Perfil 5:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
+
+### Perfil 6:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
+
+### Perfil 7:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
+
+### Perfil 8:
+* EgoSurfing:
+* Presencia en plataformas:
+* Verificación de seguridad:
+
+
 
 ## Análisis Grupal
 
@@ -75,4 +98,3 @@ El análisis realizado evidencia la importancia de gestionar activamente nuestra
 - [Investigaciones individuales](./investigaciones/individual/)
 - [Análisis grupal detallado](./investigaciones/grupal/)
 - [Recursos y plantillas](./recursos/)
-```
