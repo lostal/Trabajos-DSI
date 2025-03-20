@@ -5,7 +5,7 @@
 Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 ### EgoSurfing
-![egoSurfing andrea](https://github.com/user-attachments/assets/a9c2996f-23b2-486c-9802-10aa464ef081)
+![egoSurfing andrea](/investigaciones/individual/2022030086/egoSurfing_andrea.png)
 
 
 
