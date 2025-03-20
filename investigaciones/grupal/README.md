@@ -27,12 +27,12 @@
 
 | Plataforma      | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Total grupo |
 | --------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----------- |
-| Redes Sociales  | 6     | 5     | 4     | 1     | 3     | 6     | 2     | 7     |             |
-| Foros/Blogs     | 2     | 0     | 0     | 1     | 0     | 0     | 0     | 0     |             |
-| Noticias        | 3     | 0     | 1     | 0     | 1     | 1     | 0     | 1     |             |
-| Documentos      | 1     | 1     | 0     | 4     | 0     | 0     | 4     | 0     |             |
-| Imágenes/Videos | 1     | 0     | 1     | 0     | 0     | 0     | 0     | 1     |             |
-| Otros           | 1     | 4     | 4     | 4     | 4     | 3     | 4     | 2     |             |
+| Redes Sociales  | 6     | 5     | 4     | 1     | 3     | 6     | 2     | 7     |     32      |
+| Foros/Blogs     | 2     | 0     | 0     | 1     | 0     | 0     | 0     | 0     |     3       |
+| Noticias        | 3     | 0     | 1     | 0     | 1     | 1     | 0     | 1     |     7       |
+| Documentos      | 1     | 1     | 0     | 4     | 0     | 0     | 4     | 0     |     10      |
+| Imágenes/Videos | 1     | 0     | 1     | 0     | 0     | 0     | 0     | 1     |     3       |
+| Otros           | 1     | 4     | 4     | 4     | 4     | 3     | 4     | 2     |     26      |
 
 </div>
 
@@ -44,12 +44,12 @@
 
 | Vulnerabilidad             | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo medio |
 |----------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|--------------|
-| Datos personales expuestos |  🟡  |       |  🟡  |  🟢   | 🟢    |  🟢   |  🟡  |  🟡  |         |               |
-| Información profesional    |  🟡  |       |  🟡  |  🟡   | 🟡    |  🟡   |  No  |  🟡   |         |              |
-| Fotos personales           |  🟢  |       |  🟢  |  🟢   | 🟢    |  🟡   |  🟢  |  🟢  |         |               |
-| Menciones en medios        |  🟡  |       |  No  |   No  | No    |  No   |   No  |  No  |         |               |
-| Documentos académicos      |  🟢  |       |  No  |   No  | No    |  🟢   |   🟢 |   No  |         |               |
-| Perfiles abandonados       |  🟡  |       |  🟢  |  🟢   | 🟡    |   No  |  🟢  |  🟢  |         |               |
+| Datos personales expuestos |  🟡  |  🟡   |  🟡  |  🟢   | 🟢    |  🟢   |  🟡  |  🟡  |  87,5%  |    🟡       |
+| Información profesional    |  🟡  |  🟡   |  🟡  |  🟡   | 🟡    |  🟡   |  No  |  🟡   | 87,5%  |     🟡       |
+| Fotos personales           |  🟢  |  🟢   |  🟢  |  🟢   | 🟢    |  🟡   |  🟢  |  🟢  |  100%   |     🟢      |
+| Menciones en medios        |  🟡  |  No   |  No  |   No  | No    |  No   |   No  |  No  |   12,5%   |     🟡       |
+| Documentos académicos      |  🟢  |  No   |  No  |   No  | No    |  🟢   |   🟢 |   No  |   25%    |     🟢       |
+| Perfiles abandonados       |  🟡  |  🟢   |  🟢  |  🟢   | 🟡    |   No  |  🟢  |  🟢  |  87,5%  |     🟡       |
 
 </div>
 
@@ -59,8 +59,8 @@
 
 | Tipo de control | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | % Grupo | Riesgo promedio |
 | --------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------- | --------------- |
-| Total           |  🟢  | 🟢    | 🟡    | 🟢    | 🟡    | No    | 🟢    | 🟢    |         |                 |
-| Parcial         |  🟡  | No    | No    | 🟢    | 🟢    | 🟢    | No    | 🟢    |         |                 |
-| Nulo            |  🔴  | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    |         |                 |
+| Total           |  🟢  | 🟢    | 🟡    | 🟢    | 🟡    | No    | 🟢    | 🟢    | 62,5% |    🟢          |
+| Parcial         |  🟡  | No    | No    | 🟢    | 🟢    | 🟢    | No    | 🟢    | 37,5%  |    🟡          |
+| Nulo            |  🔴  | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 50%  |     🔴         |
 
 </div>
