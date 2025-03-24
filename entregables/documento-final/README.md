@@ -92,11 +92,11 @@ Antes de mandar un archivo, revisa los metadatos y elimina la información sensi
 | Documentos | [PDF24 Tools](https://tools.pdf24.org/es/eliminar-metadatos-pdf) | Limpiar metadatos PDF/Office | Semanal |
 | Videos | [FFmpeg](https://ffmpeg.org/) | ```-metadata delete_all``` | Mensual |
 
-### 🤖 Gestión de Interacciones con IA
+### 🖥️ Gestión de Interacciones con IA
 
-| Problema | Solución |
-| --- | --- |
-| A la hora de interactuar con modelos de Inteligencia Artificial, es importante tener en cuenta los datos que se comparten. Estos datos se almacenan en servidores y pueden ser utilizados para mejorar los modelos, pero también pueden ser vulnerables a brechas de seguridad. Al final, estamos confiando nuestra información a empresas cuyo principal objetivo es el beneficio económico. | La solución más idónea a este problema podría ser el uso de modelos en local, pero la mayoría de equipos no pueden correrlo ya que el consumo de RAM es mayor. |
+| Problema | Solución Ideal | Solución Realista |
+| --- | --- | --- |
+| Los datos compartidos con IA se almacenan en **servidores externos**, expuestos a **brechas de seguridad** y **uso comercial** por parte de empresas. | Ejecutar modelos de IA en **entornos locales** (requiere hardware potente: GPU, RAM ≥16GB, almacenamiento SSD) | - **Desactivar historial** (ej: opción en ChatGPT).<br>- **Borrar chats periódicamente**.<br>- **No compartir información** personal o laboral sensible. |
 
 ---
 
