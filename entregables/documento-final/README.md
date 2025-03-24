@@ -88,9 +88,13 @@ Antes de mandar un archivo, revisa los metadatos y elimina la información sensi
 
 | Tipo Archivo | Herramienta | Acción | Frecuencia |
 | --- | --- | --- | --- |
-| Imágenes | ![Metadatos](/entregables/documento-final/img/Metadatos.JPEG)<br>De forma nativa en iOS, se pueden eliminar o modificar los metadatos dándole a **'Ajustar'**. *Nadie tiene por qué saber dónde vive tu gato.* | Eliminar fecha, ubicación, información | Antes de compartir |
+| Imágenes | <img src="/entregables/documento-final/img/Metadatos.JPEG" width="100"><br>De forma nativa en iOS, se pueden eliminar o modificar los metadatos dándole a **'Ajustar'**. *Nadie tiene por qué saber dónde vive tu gato.* | Eliminar fecha, ubicación, información | Antes de compartir |
 | Documentos | [PDF24 Tools](https://tools.pdf24.org/es/eliminar-metadatos-pdf) | Limpiar metadatos PDF/Office | Semanal |
 | Videos | [FFmpeg](https://ffmpeg.org/) | ```-metadata delete_all``` | Mensual |
+
+### 🤖 Gestión de Interacciones con IA
+
+A la hora de interactuar con modelos de Inteligencia Artificial, es importante tener en cuenta los datos que se comparten. Estos datos se almacenan en servidores y pueden ser utilizados para mejorar los modelos, pero también pueden ser vulnerables a brechas de seguridad. Al final, estamos confiando nuestra información a empresas cuyo principal objetivo es el beneficio económico.
 
 ---
 
