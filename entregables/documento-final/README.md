@@ -86,7 +86,7 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 | | | | | |
 |-|-|-|-|-|
-| Al **buscar nuestro nombre** en diversos buscadores y LLMs, podemos encontrar **información que no queremos** que esté disponible para todo el mundo, o **información errónea** que puede **perjudicarnos**. | Un método para medir nuestra **exposición digital** es el **EgoSurfing**. | Dicha herramienta nos permite **priorizar y cuantificar** nuestra **exposición digital**, comparando su evolución en el tiempo para **identificar patrones**, **medir el impacto** de nuestras acciones y tomar decisiones informadas sobre la **gestión de nuestra identidad online**. | Para mejorar nuestra **privacidad**, podemos **solicitar la eliminación** de información a los sitios web que la publican. | ![Formulario](/entregables/documento-final/img/Formulario.png) |
+| Al **buscar nuestro nombre** en diversos buscadores y LLMs, podemos encontrar **información que no queremos** que esté disponible para todo el mundo, o **información errónea** que puede **perjudicarnos**. | Un método para medir nuestra **exposición digital** es el **EgoSurfing**. | Dicha herramienta nos permite **priorizar y cuantificar** nuestra **exposición digital**, comparando su evolución en el tiempo para **identificar patrones**, **medir el impacto** de nuestras acciones y tomar decisiones informadas sobre la **gestión de nuestra identidad online**. | Para mejorar nuestra **privacidad**, podemos **solicitar la eliminación** de información a los sitios web que la publican. | <img src="/entregables/documento-final/img/Formulario.png" width="3000"> |
 
 ---
 
