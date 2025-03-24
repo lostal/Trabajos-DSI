@@ -88,13 +88,15 @@ Antes de mandar un archivo, revisa los metadatos y elimina la información sensi
 
 | Tipo Archivo | Herramienta | Acción | Frecuencia |
 | --- | --- | --- | --- |
-| Imágenes | <img src="/entregables/documento-final/img/Metadatos.JPEG" width="40"><br>De forma nativa en iOS, se pueden eliminar o modificar los metadatos dándole a **'Ajustar'**. *Nadie tiene por qué saber dónde vive tu gato.* | Eliminar fecha, ubicación, información | Antes de compartir |
+| Imágenes | <div style="display: flex; align-items: center;"><img src="/entregables/documento-final/img/Metadatos.JPEG" width="60" style="margin-right: 10px;"><span>De forma nativa en iOS, se pueden eliminar o modificar los metadatos dándole a **'Ajustar'**. *Nadie tiene por qué saber dónde vive tu gato.*</span></div> | Eliminar fecha, ubicación, información | Antes de compartir |
 | Documentos | [PDF24 Tools](https://tools.pdf24.org/es/eliminar-metadatos-pdf) | Limpiar metadatos PDF/Office | Semanal |
 | Videos | [FFmpeg](https://ffmpeg.org/) | ```-metadata delete_all``` | Mensual |
 
 ### 🤖 Gestión de Interacciones con IA
 
-A la hora de interactuar con modelos de Inteligencia Artificial, es importante tener en cuenta los datos que se comparten. Estos datos se almacenan en servidores y pueden ser utilizados para mejorar los modelos, pero también pueden ser vulnerables a brechas de seguridad. Al final, estamos confiando nuestra información a empresas cuyo principal objetivo es el beneficio económico.
+| Problema | Solución |
+| --- | --- |
+| A la hora de interactuar con modelos de Inteligencia Artificial, es importante tener en cuenta los datos que se comparten. Estos datos se almacenan en servidores y pueden ser utilizados para mejorar los modelos, pero también pueden ser vulnerables a brechas de seguridad. Al final, estamos confiando nuestra información a empresas cuyo principal objetivo es el beneficio económico. | La solución más idónea a este problema podría ser el uso de modelos en local, pero la mayoría de equipos no pueden correrlo ya que el consumo de RAM es mayor. |
 
 ---
 
