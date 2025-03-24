@@ -88,7 +88,7 @@ Antes de mandar un archivo, revisa los metadatos y elimina la información sensi
 
 | Tipo Archivo | Herramienta | Acción | Frecuencia |
 | --- | --- | --- | --- |
-| Imágenes | <div style="display: flex; align-items: center;"><img src="/entregables/documento-final/img/Metadatos.JPEG" width="100" style="margin-right: 10px;"><span>De forma nativa en iOS, se pueden eliminar o modificar los metadatos dándole a **'Ajustar'**. *Nadie tiene por qué saber dónde vive tu gato.*</span></div> | Eliminar fecha, ubicación, información | Antes de compartir |
+| Imágenes | <img src="/entregables/documento-final/img/Metadatos.JPEG" width="150" style="vertical-align: middle;"> <span style="vertical-align: middle;">De forma nativa en iOS, se pueden eliminar o modificar los metadatos dándole a **'Ajustar'**. *Nadie tiene por qué saber dónde vive tu gato.*</span> | Eliminar fecha, ubicación, información | Antes de compartir |
 | Documentos | [PDF24 Tools](https://tools.pdf24.org/es/eliminar-metadatos-pdf) | Limpiar metadatos PDF/Office | Semanal |
 | Videos | [FFmpeg](https://ffmpeg.org/) | ```-metadata delete_all``` | Mensual |
 
