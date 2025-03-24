@@ -70,20 +70,17 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 ## Propuestas y Recomendaciones
 
-1. **Gestión de la privacidad**:
-     - Revisar y limitar permisos de aplicaciones.
-     - Desvincular servicios innecesarios.
-     - Utilizar herramientas de verificación de seguridad como *Have I Been Pwned*.
+### 🗑️ Minimalismo Digital Activo 
 
-2. **Estrategias de mitigación**:
-     - Adoptar patrones consistentes de usernames.
-     - Eliminar perfiles abandonados o no utilizados.
-     - Configurar adecuadamente las opciones de privacidad en redes sociales.
+| Acción | Herramienta | Beneficio | Dificultad | Timeline |
+| --- | --- | --- | --- | --- |
+| Usar correos desechables en registros no esenciales | [**TempMail**](https://temp-mail.io/es) | Protege tu correo principal de spam y fugas de datos | Fácil | Inmediato |
+| Eliminar cuentas inactivas de forma masiva | [**JustDeleteMe**](https://justdeleteme.xyz/) | Reduce tu huella digital y exposición a brechas de seguridad | Media (varía por plataforma) | Corto plazo (1-2 semanas) |
+| Centralizar autenticación con SSO | [**Bitwarden**](https://bitwarden.com/) | Reduce la necesidad de múltiples contraseñas y mejora la seguridad | Media | Mediano plazo (configuración inicial) |
+| Limitar tracking con enmascaramiento | [**SimpleLogin**](https://simplelogin.io/es/) (alias permanentes) o **Ocultar mi correo Apple** | Mayor privacidad que correos temporales, control centralizado | Media | Largo plazo (gestión continua) |
 
-3. **Concienciación y formación**:
-     - Promover el uso de modos privados/incógnito al realizar búsquedas.
-     - Fomentar el pensamiento crítico sobre la exposición digital.
-     - Realizar auditorías periódicas de la huella digital.
+#### Timeline
+![Minimalismo Digital Activo](/entregables/documento-final/img/MinimalismoDigital.svg)
 
 ---
 

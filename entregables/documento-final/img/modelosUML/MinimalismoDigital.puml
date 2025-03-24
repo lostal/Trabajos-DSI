@@ -1,0 +1,7 @@
+@startgantt
+Project starts 2025-03-24
+[Usar correos desechables en registros no esenciales] happens 2025-03-24
+[Eliminar cuentas inactivas de forma masiva] lasts 14 days
+[Centralizar autenticación con SSO] happens 2025-04-08
+[Limitar tracking con enmascaramiento] lasts 30 days
+@endgantt
