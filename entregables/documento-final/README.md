@@ -51,20 +51,47 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 ## Análisis Grupal
 
-### Consolidación de Datos
-- Comparativa de hallazgos individuales.
-- Identificación de patrones comunes.
-- Análisis de vulnerabilidades compartidas.
-- Evaluación del impacto de diferentes prácticas de privacidad.
+### 1. Consolidación de Hallazgos  
+Se analizaron **8 perfiles** con enfoque en tres dimensiones:  
+- **Presencia digital**: 7/8 perfiles tienen cuentas en +5 plataformas (redes sociales, foros, servicios obsoletos).  
+- **Exposición crítica**: 5/8 perfiles muestran información sensible pública (ej: direcciones, fechas de nacimiento en LinkedIn).  
+- **Seguridad básica**: 4/8 usan contraseñas únicas para servicios prioritarios (correo, servicios bancarios).  
 
-### Resumen Cuantitativo
-- Índice de exposición global.
-- Distribución de hallazgos por plataformas.
-- Matriz de vulnerabilidades comunes.
+---
 
-### Análisis de Control
-- Clasificación de hallazgos en control total, parcial o nulo.
-- Riesgos promedio asociados a cada tipo de control.
+### 2. Patrones y Vulnerabilidades Comunes  
+#### a) Plataformas de Alto Riesgo  
+- **Redes sociales**: 100% de los perfiles tienen cuentas públicas en Instagram/Facebook, con 62.5% exponiendo ubicación en tiempo real.  
+- **Servicios obsoletos**: 75% mantienen cuentas inactivas en algunas plataformas.
+#### b) Malas Prácticas de Privacidad  
+- **Contraseñas débiles**: 5/8 reutilizan contraseñas en servicios de alto impacto (correo electrónico, redes laborales).  
+- **Permisos excesivos**: 87.5% otorgan acceso a ubicación/cámara a apps no esenciales (ej: juegos móviles).  
+
+#### c) Huella Visual y Metadatos  
+- **Imágenes con geolocalización**: 6/8 perfiles comparten fotos en redes con metadatos intactos.  
+- **Documentos laborales**: 3/8 envían archivos PDF/Word con metadatos de autor (nombres reales, fechas de edición).  
+
+---
+
+### 3. Análisis Cuantitativo Profundizado  
+| **Métrica**               | **Datos**                                  |  
+|---------------------------|--------------------------------------------|  
+| Índice de Exposición Global | 6.8/10 (alto en redes, medio en foros)     |  
+| Plataforma con más riesgo    | Instagram (62.5% de perfiles con ubicación)|  
+| Vulnerabilidad crítica     | 50% tienen al menos 1 cuenta con fuga de datos en HaveIBeenPwned |  
+| Control de metadatos       | Solo 2/8 limpian metadatos antes de compartir archivos |  
+
+---
+
+### 4. Priorización de Riesgos  
+**Matriz de Impacto vs. Probabilidad**  
+| **Vulnerabilidad**            | **Impacto** | **Probabilidad** |  
+|-------------------------------|-------------|------------------|  
+| Cuentas inactivas con fugas   | Alto (⭐️⭐️⭐️) | Alta (⭐️⭐️⭐️)     |  
+| Metadatos en imágenes         | Medio (⭐️⭐️)  | Alta (⭐️⭐️⭐️)     |  
+| Permisos excesivos en apps    | Medio (⭐️⭐️)  | Alta (⭐️⭐️⭐️)     |  
+
+---
 
 ## Propuestas y Recomendaciones
 
