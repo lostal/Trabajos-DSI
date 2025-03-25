@@ -150,6 +150,25 @@ Antes de mandar un archivo, revisa los metadatos y elimina la información sensi
 
 El análisis realizado evidencia la importancia de gestionar activamente nuestra identidad digital. Aunque existen patrones comunes en la exposición, también se identificaron vulnerabilidades específicas que requieren atención. Este proyecto destaca la necesidad de adoptar prácticas responsables y conscientes para proteger la privacidad y seguridad en el entorno digital.
 
+### Principales hallazgos:
+
+- **Exposición generalizada:** La mayoría de los perfiles presentan una alta presencia en plataformas digitales, lo que incrementa el riesgo de acceso no autorizado a información sensible.
+- **Vulnerabilidades críticas:** Se identificaron prácticas inseguras como el uso de contraseñas débiles, permisos excesivos en aplicaciones y la exposición de metadatos en archivos compartidos.
+- **Fugas de información:** El 50% de los perfiles tienen cuentas afectadas por brechas de seguridad según "Have I Been Pwned".
+
+### Recomendaciones clave:
+
+1. **Minimalismo digital activo:** Reducir la exposición eliminando cuentas inactivas y usando correos electrónicos desechables en registros no esenciales.
+2. **Gestión de permisos:** Revisar y limitar los accesos a la ubicación, la cámara y otros datos sensibles en las aplicaciones.
+3. **Control de metadatos:** Limpiar metadatos en imágenes, documentos y videos antes de compartirlos públicamente.
+4. **Seguridad en autenticación:** Utilizar gestores de contraseñas y autenticación en dos pasos para proteger cuentas críticas.
+
+### Reflexión final:
+
+El control consciente de la huella digital no solo fortalece la seguridad personal, sino que también fomenta una cultura de privacidad en el entorno digital. Implementar las estrategias sugeridas permitirá reducir significativamente los riesgos asociados a la exposición de información personal.
+
+
+
 ## Artefactos Adicionales
 
 - [Investigaciones individuales](./investigaciones/individual/)
