@@ -9,15 +9,14 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 | *Perfil* | *EgoSurfing* | *Presencia en plataformas* | *Verificación de seguridad* |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-
+| 1 | 0,49  | 08  |   |
+| 2 | 0,31  | 05  |   |
+| 3 | 0,30  | 04  |   |
+| 4 | 0,39  | 02  |   |
+| 5 | 0,27  | 03  |   |
+| 6 | 0,30  | 06  |   |
+| 7 | 0,30  | 02  |   |
+| 8 | 0,31  | 07  |   |
 
 
 ## Análisis Grupal
