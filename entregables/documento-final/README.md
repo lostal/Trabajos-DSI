@@ -7,45 +7,16 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 ## Hallazgos individuales (anonimizados)
 
-### Perfil 1:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 2:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 3:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 4:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 5:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 6:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 7:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
-
-### Perfil 8:
-* EgoSurfing:
-* Presencia en plataformas:
-* Verificación de seguridad:
+| *Perfil* | *EgoSurfing* | *Presencia en plataformas* | *Verificación de seguridad* |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+| 6 | | | |
+| 7 | | | |
+| 8 | | | |
 
 
 
