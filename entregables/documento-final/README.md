@@ -7,16 +7,53 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 ## Hallazgos individuales (anonimizados)
 
-| *Perfil* | *EgoSurfing* | *Presencia en plataformas* | *Verificación de seguridad* |
-|---|---|---|---|
-| 1 | 0,49  | 08  |   |
-| 2 | 0,31  | 05  |   |
-| 3 | 0,30  | 04  |   |
-| 4 | 0,39  | 02  |   |
-| 5 | 0,27  | 03  |   |
-| 6 | 0,30  | 06  |   |
-| 7 | 0,30  | 02  |   |
-| 8 | 0,31  | 07  |   |
+### Análisis básico
+
+#### EgoSurfing
+##### Buscador utilizado (Si 🟢 | No 🔴)
+
+| **Perfil** | **Google** | **Bing** | **Brave** | **ChatGPT** | **Yahoo** | **Perplexity** | **DuckDuckGo** | **Pinterest** | **Instagram** | **Wikipedia** | **Índice de exposición** | **N° total de busquedas** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 0,49 | 12 |
+| 2 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 0,31 | 10 |
+| 3 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 0,30 | 10 |
+| 4 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 0,39 | 10 |
+| 5 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 0,27 | 08 |
+| 6 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 0,30 | 10 |
+| 7 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 0,32 | 10 |
+| 8 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 0,41 | 11 |
+
+
+### Análisis de plataformas
+
+#### Presencia en plataformas
+
+| **Perfil** | **Redes sociales emergentes** | **Plataformas emergentes** |
+|---|---|---|
+| 1 | 4 | 3 |
+| 2 | 3 | 4 |
+| 3 | 3 | 2 |
+| 4 | 2 | 1 |
+| 5 | 4 | 2 |
+| 6 | 4 | 0 |
+| 7 | 3 | 0 |
+| 8 | 4 | 0 |
+
+
+### Verificación de seguridad
+
+#### Exposición en Have I Been Pwned
+
+| **Perfil** | **Resultado** |
+|---|---|
+| 1 | 🟢 A salvo 😎 |
+| 2 | 🔴 No a salvo 😢 |
+| 3 | 🔴 No a salvo 😢 |
+| 4 | 🔴 No a salvo 😢 |
+| 5 | 🔴 No a salvo 😢 |
+| 6 | Pendiente |
+| 7 | 🟢A salvo 😎 |
+| 8 | 🔴No a salvo 😢 |
 
 
 ## Análisis Grupal
