@@ -33,7 +33,7 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 ### Exposición Have I Been Pwned
 
 Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) se obtuvieron los siguientes resultados:
-
+![Resultados](/investigaciones/individual/2022020044/verificacionseguridad.png)
 
 ### Permisos de aplicaciones
 | Aplicación  | Permisos Concedidos | Nivel de Riesgo | Acción Requerida |
