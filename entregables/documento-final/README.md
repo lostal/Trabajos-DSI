@@ -28,7 +28,7 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 #### Presencia en plataformas
 
-| **Perfil** | **Redes sociales emergentes** | **Plataformas emergentes** |
+| **Perfil** | **Redes<br>sociales<br>emergentes** | **Plataformas<br>emergentes** |
 |---|---|---|
 | 1 | 4 | 3 |
 | 2 | 3 | 4 |
