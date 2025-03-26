@@ -23,7 +23,7 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 ### 1. Consolidación de Hallazgos  
 Se analizaron **8 perfiles** con enfoque en tres dimensiones:  
-- **Presencia digital**: 7/8 perfiles tienen cuentas en +5 plataformas (redes sociales, foros, servicios obsoletos).  
+- **Presencia digital**: 7/8 perfiles tienen cuentas en +5 plataformas (redes sociales, foros...).  
 - **Exposición crítica**: 5/8 perfiles muestran información sensible pública (ej: direcciones, fechas de nacimiento en LinkedIn).  
 - **Seguridad básica**: 4/8 usan contraseñas únicas para servicios prioritarios (correo, servicios bancarios).  
 
@@ -31,8 +31,8 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 
 ### 2. Patrones y Vulnerabilidades Comunes  
 #### a) Plataformas de Alto Riesgo  
-- **Redes sociales**: 100% de los perfiles tienen cuentas públicas en Instagram/Facebook, con 62.5% exponiendo ubicación en tiempo real.  
-- **Servicios obsoletos**: 75% mantienen cuentas inactivas en algunas plataformas.
+- **Redes sociales**: el 100% de los perfiles tienen cuentas en Instagram/Facebook, con un 62.5% exponiendo ubicación en tiempo real.  
+- **Servicios obsoletos**: el 75% mantienen cuentas inactivas en algunas plataformas.
 #### b) Malas Prácticas de Privacidad  
 - **Contraseñas débiles**: 5/8 reutilizan contraseñas en servicios de alto impacto (correo electrónico, redes laborales).  
 - **Permisos excesivos**: 87.5% otorgan acceso a ubicación/cámara a apps no esenciales (ej: juegos móviles).  
@@ -50,16 +50,6 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 | Plataforma con más riesgo    | Instagram (62.5% de perfiles con ubicación)|  
 | Vulnerabilidad crítica     | 50% tienen al menos 1 cuenta con fuga de datos en HaveIBeenPwned |  
 | Control de metadatos       | Solo 2/8 limpian metadatos antes de compartir archivos |  
-
----
-
-### 4. Priorización de Riesgos  
-**Matriz de Impacto vs. Probabilidad**  
-| **Vulnerabilidad**            | **Impacto** | **Probabilidad** |  
-|-------------------------------|-------------|------------------|  
-| Cuentas inactivas con fugas   | Alto (⭐️⭐️⭐️) | Alta (⭐️⭐️⭐️)     |  
-| Metadatos en imágenes         | Medio (⭐️⭐️)  | Alta (⭐️⭐️⭐️)     |  
-| Permisos excesivos en apps    | Medio (⭐️⭐️)  | Alta (⭐️⭐️⭐️)     |  
 
 ---
 
