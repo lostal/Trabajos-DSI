@@ -28,3 +28,9 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 | Bluesky      | No        | -           | -             |
 | Letterboxd   | No        | -           | -             |
 
+## Verificación de seguridad
+
+### Exposición Have I Been Pwned
+
+Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) se obtuvieron los siguientes resultados:
+
