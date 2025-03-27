@@ -51,7 +51,7 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 | 3 | 🔴 No a salvo 😢 |
 | 4 | 🔴 No a salvo 😢 |
 | 5 | 🔴 No a salvo 😢 |
-| 6 | Pendiente |
+| 6 | 🟢A salvo 😎 |
 | 7 | 🟢A salvo 😎 |
 | 8 | 🔴No a salvo 😢 |
 
