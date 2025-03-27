@@ -27,6 +27,7 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 | 7 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 0,32 | 10 |
 | 8 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 0,41 | 11 |
 
+---
 
 ### Análisis de plataformas
 
@@ -43,6 +44,7 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 | 7 | 3 | 0 |
 | 8 | 4 | 0 |
 
+---
 
 ### Verificación de seguridad
 
@@ -80,6 +82,7 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 - **Vectores críticos**: Los documentos y las imágenes/videos podrían contener información sensible.
 #### c) Soluciones
 - **Mitigaciones**: Revisar configuraciones de privacidad en redes sociales y auditar plataformas de documentos.
+
 ---
 
 ### 3. Análisis Cuantitativo Profundizado  
@@ -89,8 +92,6 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 | Plataforma con más riesgo    | Instagram (62.5% de perfiles con ubicación)|  
 | Vulnerabilidad crítica     | 50% tienen al menos 1 cuenta con fuga de datos en HaveIBeenPwned |  
 | Control de metadatos       | Solo 2/8 limpian metadatos antes de compartir archivos |  
-
----
 
 ## Propuestas y Recomendaciones
 
