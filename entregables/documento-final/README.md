@@ -62,7 +62,6 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 Se analizaron **8 perfiles** con enfoque en tres dimensiones:  
 - **Presencia digital**: 7/8 perfiles tienen cuentas en +5 plataformas (redes sociales, foros...).  
 - **Exposición crítica**: 5/8 perfiles muestran información sensible pública (ej: direcciones, fechas de nacimiento en LinkedIn).  
-- **Seguridad básica**: 4/8 usan contraseñas únicas para servicios prioritarios (correo, servicios bancarios).  
 
 ---
 
