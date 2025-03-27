@@ -1,11 +1,11 @@
 # Análisis de huella & salud digital
 
-## Resumen ejecutivo
+## 📝 Resumen ejecutivo
 
 Este informe presenta los hallazgos obtenidos tras el análisis de la huella digital de los integrantes del equipo, evaluando su presencia en línea, riesgos potenciales y medidas de mitigación. Se examinaron diversas fuentes de información accesibles públicamente para identificar el grado de exposición y posibles vulnerabilidades. A partir de estos análisis, se han formulado recomendaciones para mejorar la privacidad y seguridad digital.
 
 
-## [Hallazgos individuales (anonimizados)](/investigaciones/individual/)
+## 👤 [Hallazgos individuales (anonimizados)](/investigaciones/individual/)
 
 ### Análisis básico
 
@@ -64,7 +64,7 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encon
 | 8 | 🔴 No a salvo 😢 |
 
 
-## [Análisis Grupal](/investigaciones/grupal/)
+## 👥 [Análisis Grupal](/investigaciones/grupal/)
 
 ### 1. Consolidación de Hallazgos  
 Se analizaron **8 perfiles** con enfoque en tres dimensiones:  
@@ -93,9 +93,9 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 | Vulnerabilidad crítica     | 50% tienen al menos 1 cuenta con fuga de datos en HaveIBeenPwned |  
 | Control de metadatos       | Solo 2/8 limpian metadatos antes de compartir archivos |  
 
-## Propuestas y Recomendaciones
+## 💡 Propuestas y Recomendaciones
 
-### 🗑️ Minimalismo Digital Activo 
+### Minimalismo Digital Activo 
 
 | Acción | Herramienta | Beneficio | Dificultad | Timeline |
 | --- | --- | --- | --- | --- |
@@ -109,7 +109,7 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 
 ---
 
-### 🔎 Búsquedas en Internet
+### Búsquedas en Internet
 
 | | | | | |
 |-|-|-|-|-|
@@ -117,7 +117,7 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 
 ---
 
-### 🪪 Permisos de Aplicaciones
+### Permisos de Aplicaciones
 | | | |
 |-|-|-|
 | Aquí podemos hacer el ejercicio de **revisar** las **aplicaciones** que tienen acceso a la cámara, a nuestra ubicación, a los contactos, etc. y **desactivar** los **permisos** que no necesitan tener. | Una vez revisados los permisos, nos podrá resultar sorprendente que la mayoría de las **aplicaciones** funcionarán **perfectamente** sin necesidad de tantos datos. | Como última recomendación algo más específica, recomendamos **desactivar** la **cronología** de **Google Maps** para evitar que se almacenen los lugares que visitamos. |
@@ -128,7 +128,7 @@ Ni la propia Google lo esconde, en su [página](https://support.google.com/maps/
 
 ---
 
-### 📸 Gestión de Metadatos y Huella Visual
+### Gestión de Metadatos y Huella Visual
 
 Antes de mandar un archivo, revisa los metadatos y elimina la información sensible.
 
@@ -140,13 +140,13 @@ Antes de mandar un archivo, revisa los metadatos y elimina la información sensi
 
 ---
 
-### 🖥️ Gestión de Interacciones con IA
+### Gestión de Interacciones con IA
 
 | Problema | Solución Ideal | Solución Realista |
 | --- | --- | --- |
 | Los datos compartidos con IA se almacenan en **servidores externos**, expuestos a **brechas de seguridad** y **uso comercial** por parte de empresas. | Ejecutar modelos de IA en **entornos locales** (requiere hardware potente: GPU, RAM ≥16GB, almacenamiento SSD) | - **Desactivar historial** (ej: opción en ChatGPT).<br>- **Borrar chats periódicamente**.<br>- **No compartir información** personal o laboral sensible. |
 
-## Conclusiones
+## ✅ Conclusiones
 
 El análisis realizado evidencia la importancia de gestionar activamente nuestra identidad digital. Aunque existen patrones comunes en la exposición, también se identificaron vulnerabilidades específicas que requieren atención. Este proyecto destaca la necesidad de adoptar prácticas responsables y conscientes para proteger la privacidad y seguridad en el entorno digital.
 
