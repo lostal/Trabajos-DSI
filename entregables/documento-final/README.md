@@ -164,6 +164,5 @@ El control consciente de la huella digital no solo fortalece la seguridad person
 
 ## Artefactos Adicionales
 
-- [Investigaciones individuales](./investigaciones/individual/)
-- [Análisis grupal detallado](./investigaciones/grupal/)
-- [Recursos y plantillas](./recursos/)
+- [Investigaciones individuales](/investigaciones/individual/)
+- [Análisis grupal detallado](/investigaciones/grupal/)
