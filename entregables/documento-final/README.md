@@ -5,12 +5,16 @@
 Este informe presenta los hallazgos obtenidos tras el análisis de la huella digital de los integrantes del equipo, evaluando su presencia en línea, riesgos potenciales y medidas de mitigación. Se examinaron diversas fuentes de información accesibles públicamente para identificar el grado de exposición y posibles vulnerabilidades. A partir de estos análisis, se han formulado recomendaciones para mejorar la privacidad y seguridad digital.
 
 
-## Hallazgos individuales (anonimizados)
+## [Hallazgos individuales (anonimizados)](/investigaciones/individual/)
 
 ### Análisis básico
 
+Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
+
 #### EgoSurfing
-##### Buscador utilizado (Si 🟢 | No 🔴)
+
+> [!NOTE]
+>Buscador utilizado (Si 🟢 | No 🔴)
 
 | **Perfil** | **Google** | **Bing** | **Brave** | **ChatGPT** | **Yahoo** | **Perplexity** | **DuckDuckGo** | **Pinterest** | **Instagram** | **Wikipedia** | **Índice de exposición** | **N° total de busquedas** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -28,7 +32,7 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 #### Presencia en plataformas
 
-| **Perfil** | **Redes<br>sociales<br>emergentes** | **Plataformas<br>emergentes** |
+| **Perfil** | **Redes ociales<br>tradicionales** | **Plataformas<br>emergentes** |
 |---|---|---|
 | 1 | 4 | 3 |
 | 2 | 3 | 4 |
@@ -42,7 +46,9 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 
 ### Verificación de seguridad
 
-#### Exposición en Have I Been Pwned
+#### Exposición en brechas de datos
+
+Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encontramos los siguientes resultados:
 
 | **Perfil** | **Resultado** |
 |---|---|
@@ -51,12 +57,12 @@ Este informe presenta los hallazgos obtenidos tras el análisis de la huella dig
 | 3 | 🔴 No a salvo 😢 |
 | 4 | 🔴 No a salvo 😢 |
 | 5 | 🔴 No a salvo 😢 |
-| 6 | 🟢A salvo 😎 |
-| 7 | 🟢A salvo 😎 |
-| 8 | 🔴No a salvo 😢 |
+| 6 | 🟢 A salvo 😎 |
+| 7 | 🟢 A salvo 😎 |
+| 8 | 🔴 No a salvo 😢 |
 
 
-## Análisis Grupal
+## [Análisis Grupal](/investigaciones/grupal/)
 
 ### 1. Consolidación de Hallazgos  
 Se analizaron **8 perfiles** con enfoque en tres dimensiones:  
@@ -159,10 +165,3 @@ El análisis realizado evidencia la importancia de gestionar activamente nuestra
 ### Reflexión final:
 
 El control consciente de la huella digital no solo fortalece la seguridad personal, sino que también fomenta una cultura de privacidad en el entorno digital. Implementar las estrategias sugeridas permitirá reducir significativamente los riesgos asociados a la exposición de información personal.
-
-
-
-## Artefactos Adicionales
-
-- [Investigaciones individuales](/investigaciones/individual/)
-- [Análisis grupal detallado](/investigaciones/grupal/)
