@@ -32,7 +32,7 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 #### Presencia en plataformas
 
-| **Perfil** | **Redes ociales<br>tradicionales** | **Plataformas<br>emergentes** |
+| **Perfil** | **Redes sociales<br>tradicionales** | **Plataformas<br>emergentes** |
 |---|---|---|
 | 1 | 4 | 3 |
 | 2 | 3 | 4 |
