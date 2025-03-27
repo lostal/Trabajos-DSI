@@ -70,7 +70,7 @@ Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
 Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encontramos los siguientes resultados:
 
-> ![NOTE]
+> [!NOTE]
 > 🟢 No hay datos expuestos / 🔴 Existen datos expuestos
 
 | **Perfil**   | ...45  | ...54  | ...11  | ...17  | ...33  | ...44  | ...24  | ...86  |
