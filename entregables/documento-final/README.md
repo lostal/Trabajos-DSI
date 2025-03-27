@@ -5,93 +5,98 @@
 Este informe presenta los hallazgos obtenidos tras el análisis de la huella digital de los integrantes del equipo, evaluando su presencia en línea, riesgos potenciales y medidas de mitigación. Se examinaron diversas fuentes de información accesibles públicamente para identificar el grado de exposición y posibles vulnerabilidades. A partir de estos análisis, se han formulado recomendaciones para mejorar la privacidad y seguridad digital.
 
 
-## 👤 [Hallazgos individuales (anonimizados)](/investigaciones/individual/)
+## 👤 [Hallazgos individuales](/investigaciones/individual/)
 
-### Análisis básico
+### 🔎 EgoSurfing y Búsquedas
+
+| Categoría               | Herramientas/Plataformas                  |
+| ----------------------- | ----------------------------------------- |
+| **Motores de búsqueda** | Google, Bing, DuckDuckGo, Brave           |
+| **LLMs consultados**    | ChatGPT, Gemini, GitHub Copilot, Deepseek |
+
+### 🌐 Análisis de Plataformas
+
+| Tipo de Plataforma      | Analizadas                                  |
+| ----------------------- | ------------------------------------------- |
+| **Redes tradicionales** | Facebook, Instagram, LinkedIn, X (Twitter)  |
+| **Plataformas nuevas**  | BeReal, Threads, Mastodon, Discord, Bluesky |
+
+### 🔒 Verificación de Seguridad
+
+- Comprobación en ![HaveIBeenPwned](https://img.shields.io/badge/Have_I_Been_Pwned-2A6379?logo=haveibeenpwned&logoColor=white)
+- Auditoría de permisos de aplicaciones
+- Revisión de servicios vinculados
+- Documentación de interacciones con IA
+
+
+## 👥 [Análisis Grupal](/investigaciones/grupal/)
+
+### EgoSurfing
 
 Estas pruebas se han realizado utilizando el modo incógnito para evitar sesgos.
 
-#### EgoSurfing
+| Métrica                        | ...45 | ...54 | ...11 | ...17 | ...33 | ...44 | ...24 | ...86 | Patrón grupal |
+| ------------------------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | -------------- |
+| Índice de exposición global    | 0.49  | 0.31  | 0.30  | 0.39  | 0.27  | 0.30  | 0.30  | 0.41  | 0.35 ± 0.07    |
+| Nº total de hallazgos          | 12    | 10    | 10    | 10    | 8     | 10    | 10    | 11    | 10.13 ± 1.05   |
+| Redes Sociales                 | 6     | 5     | 4     | 1     | 3     | 6     | 2     | 7     | 32             |
+| Foros/Blogs                    | 2     | 0     | 0     | 1     | 0     | 0     | 0     | 0     | 3              |
+| Noticias                       | 3     | 0     | 1     | 0     | 1     | 1     | 0     | 1     | 7              |
+| Documentos                     | 1     | 1     | 0     | 4     | 0     | 0     | 4     | 0     | 10             |
+| Imágenes/Videos                | 1     | 0     | 1     | 0     | 0     | 0     | 0     | 1     | 3              |
+| Otros                          | 1     | 4     | 4     | 4     | 4     | 3     | 4     | 2     | 26             |
+| **Control Total**              | 🟢    | 🟢    | 🟡    | 🟢    | 🟡    | No    | 🟢    | 🟢    | **62.5%**       |
+| **Control Parcial**            | 🟡    | No    | No    | 🟢    | 🟢    | 🟢    | No    | 🟢    | **37.5%**       |
+| **Control Nulo**               | 🔴    | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | 🟡    | 🔴    | **50%**         |\
 
-> [!NOTE]
->Buscador utilizado (Si 🟢 | No 🔴)
+1. **Variabilidad en exposición digital**  
+   El índice de exposición global oscila entre **0.27** (más bajo en ...33) y **0.49** (más alto en ...45), mostrando diferencias significativas en vulnerabilidad entre casos.
 
-| **Perfil** | **Índice de exposición** | **N° total de búsquedas** | **Google** | **Bing** | **Brave** | **ChatGPT** | **Yahoo** | **Perplexity** | **DuckDuckGo** | **Pinterest** | **Instagram** | **Wikipedia** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 0,49 | 12 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| 2 | 0,31 | 10 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| 3 | 0,30 | 10 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
-| 4 | 0,39 | 10 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 |
-| 5 | 0,27 | 08 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
-| 6 | 0,30 | 10 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 |
-| 7 | 0,32 | 10 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
-| 8 | 0,41 | 11 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
+2. **Dominancia de redes sociales**  
+   Las redes sociales concentran **32 hallazgos** (vs. solo 3 en foros/blogs), destacando su papel principal como fuente de exposición digital.
 
----
+3. **Brechas en controles de protección**  
+   - 50% tiene **control nulo** (🔴) de exposición  
+   - Solo 62.5% logra **control total** (🟢), revelando fallas sistémicas en mitigación de riesgos.
 
-### Análisis de plataformas
+4. **Casos atípicos relevantes**  
+    - **...45**: Mayor exposición (0.49) + 12 hallazgos (máximo) 
+        - _Probablemente_ cuantos más hallazgos hagas, mayor índice de exposición tengas.
+    - **Documentos**: ...17 y ...24 con 4 hallazgos cada uno (vs. 10 total grupal), sugiriendo fugas de información estructurada.
 
-#### Presencia en plataformas
-
-| **Perfil** | **Redes sociales<br>tradicionales** | **Plataformas<br>emergentes** |
-|---|---|---|
-| 1 | 4 | 3 |
-| 2 | 3 | 4 |
-| 3 | 3 | 2 |
-| 4 | 2 | 1 |
-| 5 | 4 | 2 |
-| 6 | 4 | 0 |
-| 7 | 3 | 0 |
-| 8 | 4 | 0 |
-
----
-
-### Verificación de seguridad
+### Verificación de Seguridad
 
 #### Exposición en brechas de datos
 
 Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encontramos los siguientes resultados:
 
-| **Perfil** | **Resultado** |
-|---|---|
-| 1 | 🟢 A salvo 😎 |
-| 2 | 🔴 No a salvo 😢 |
-| 3 | 🔴 No a salvo 😢 |
-| 4 | 🔴 No a salvo 😢 |
-| 5 | 🔴 No a salvo 😢 |
-| 6 | 🟢 A salvo 😎 |
-| 7 | 🟢 A salvo 😎 |
-| 8 | 🔴 No a salvo 😢 |
+| **Perfil**   | ...45  | ...54  | ...11  | ...17  | ...33  | ...44  | ...24  | ...86  |
+|-------------|--------|--------|--------|--------|--------|--------|--------|--------|
+| **Resultado** | 🟢  | 🔴  | 🔴  | 🔴 | 🔴  | 🟢  | 🟢  | 🔴  |
 
+#### Permisos de aplicaciones
 
-## 👥 [Análisis Grupal](/investigaciones/grupal/)
+Estas son las aplicaciones más utilizadas por el grupo y los permisos que se les han concedido:
 
-### 1. Consolidación de Hallazgos  
-Se analizaron **8 perfiles** con enfoque en tres dimensiones:  
-- **Presencia digital**: 7/8 perfiles tienen cuentas en +5 plataformas (redes sociales, foros...).  
-- **Exposición crítica**: 5/8 perfiles muestran información sensible pública (ej: direcciones, fechas de nacimiento en LinkedIn).  
+| Aplicación                                                                                                                               | Permisos concedidos                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60"/>                                           | Ubicación (Al usarse), Contactos, Fotos, Micrófono, Cámara                                   |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60"/>                                                 | Ubicación (Siempre), Contactos, Fotos, Bluetooth, Micrófono, Cámara | 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" width="60"/>                      | Fotos, Micrófono y Cámara                                                                          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/640px-Tiktok_icon.svg.png" width="60" />             | Cámara, Fotos y Videos, Micrófono                                                                  |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/640px-Google_Maps_icon_%282015-2020%29.svg.png" alt="Google Maps" width="50"></p> | Ubicación, Multimedia|
 
----
+#### Interacciones con IA
 
-### 2. Patrones y Vulnerabilidades Comunes  
-#### a) Plataformas 
-- **Redes sociales**: el 100% de los perfiles tienen cuentas en Instagram, con un 62.5% exponiendo ubicación en tiempo real.  
-- **Servicios obsoletos**: el 75% mantienen cuentas inactivas en algunas plataformas.  
-#### b) Riesgos
-- **Vectores explotables**: Datos personales + perfiles abandonados = riesgo de suplantación de identidad.
-- **Vectores críticos**: Los documentos y las imágenes/videos podrían contener información sensible.
-#### c) Soluciones
-- **Mitigaciones**: Revisar configuraciones de privacidad en redes sociales y auditar plataformas de documentos.
+| Plataforma IA | Tipo de Interacción | Datos Compartidos | Configuración Privacidad |
+|---------------|---------------------|--------------------|--------------------------|
+| **ChatGPT** | Consultas académicas y personales | Textos académidos/personales | No guardar datos en memoria |
+| **GitHub Copilot** | Desarrollo código | Fragmentos código | No existe |
+| **Deepseek** | Consultas académicas | Textos académicos | No existe |
+| **Claude** | Desarrollo código | Fragmentos código | No guardar datos en memoria |
 
----
+A cada IA se le da un uso específico y se han empezado a tomar medidas para proteger la privacidad de los datos compartidos.
 
-### 3. Análisis Cuantitativo Profundizado  
-| **Métrica**               | **Datos**                                  |  
-|---------------------------|--------------------------------------------|  
-| Índice de Exposición Global | 6.8/10 (alto en redes, medio en foros)     |  
-| Plataforma con más riesgo    | Instagram (62.5% de perfiles con ubicación)|  
-| Vulnerabilidad crítica     | 50% tienen al menos 1 cuenta con fuga de datos en HaveIBeenPwned |  
-| Control de metadatos       | Solo 2/8 limpian metadatos antes de compartir archivos |  
 
 ## 💡 Propuestas y Recomendaciones
 
