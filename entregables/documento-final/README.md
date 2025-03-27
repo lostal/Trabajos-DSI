@@ -66,17 +66,14 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 ---
 
 ### 2. Patrones y Vulnerabilidades Comunes  
-#### a) Plataformas de Alto Riesgo  
-- **Redes sociales**: el 100% de los perfiles tienen cuentas en Instagram/Facebook, con un 62.5% exponiendo ubicación en tiempo real.  
+#### a) Plataformas 
+- **Redes sociales**: el 100% de los perfiles tienen cuentas en Instagram, con un 62.5% exponiendo ubicación en tiempo real.  
 - **Servicios obsoletos**: el 75% mantienen cuentas inactivas en algunas plataformas.
 #### b) Malas Prácticas de Privacidad  
-- **Contraseñas débiles**: 5/8 reutilizan contraseñas en servicios de alto impacto (correo electrónico, redes laborales).  
 - **Permisos excesivos**: 87.5% otorgan acceso a ubicación/cámara a apps no esenciales (ej: juegos móviles).  
-
-#### c) Huella Visual y Metadatos  
-- **Imágenes con geolocalización**: 6/8 perfiles comparten fotos en redes con metadatos intactos.  
-- **Documentos laborales**: 3/8 envían archivos PDF/Word con metadatos de autor (nombres reales, fechas de edición).  
-
+#### c) Riesgos
+- **Vectores explotables**: Datos personales + perfiles abandonados = riesgo de suplantación de identidad.
+- **Vectores críticos**: Los documentos y las imágenes/videos podrían contener información sensible.
 ---
 
 ### 3. Análisis Cuantitativo Profundizado  
