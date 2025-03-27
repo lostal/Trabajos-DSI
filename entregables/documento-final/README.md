@@ -68,12 +68,12 @@ Se analizaron **8 perfiles** con enfoque en tres dimensiones:
 ### 2. Patrones y Vulnerabilidades Comunes  
 #### a) Plataformas 
 - **Redes sociales**: el 100% de los perfiles tienen cuentas en Instagram, con un 62.5% exponiendo ubicación en tiempo real.  
-- **Servicios obsoletos**: el 75% mantienen cuentas inactivas en algunas plataformas.
-#### b) Malas Prácticas de Privacidad  
-- **Permisos excesivos**: 87.5% otorgan acceso a ubicación/cámara a apps no esenciales (ej: juegos móviles).  
-#### c) Riesgos
+- **Servicios obsoletos**: el 75% mantienen cuentas inactivas en algunas plataformas.  
+#### b) Riesgos
 - **Vectores explotables**: Datos personales + perfiles abandonados = riesgo de suplantación de identidad.
 - **Vectores críticos**: Los documentos y las imágenes/videos podrían contener información sensible.
+#### c) Soluciones
+- **Mitigaciones**: Revisar configuraciones de privacidad en redes sociales y auditar plataformas de documentos.
 ---
 
 ### 3. Análisis Cuantitativo Profundizado  
