@@ -12,7 +12,7 @@ Repositorio del **Grupo 8** para la asignatura *Dirección de Sistemas de Inform
 | Rama | Estado | Descripción | Enlace |
 |------|--------|-------------|--------|
 | `main` | ![Main](https://img.shields.io/badge/🔒-Principal-blue) | Rama principal | - |
-| `entrega003` | ![Development](https://img.shields.io/badge/🚧-En%20desarrollo-red) | Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/lostal/Trabajos-DSI/tree/entrega003) |
+| `entrega003` | ![Completed](https://img.shields.io/badge/✅-Finalizado-brightgreen) | Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/lostal/Trabajos-DSI/tree/entrega003) |
 
 ---
     
