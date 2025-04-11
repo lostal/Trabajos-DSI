@@ -1,32 +1,10 @@
 <div align="center">
 
-# 💻 Dirección de Sistemas de Información
+# 📲 UNA APP
 
 </div>
 
-Repositorio del **Grupo 8** para la asignatura *Dirección de Sistemas de Información*.
+Esta entrega se centra en el desarrollo de una aplicación noCode para la gestión de exámenes tipo test, marcando el inicio de un estudio que permitirá identificar y evaluar aspectos clave en la implementación de soluciones digitales sin programación tradicional.
 
-## 🗂️ Estructura del Repositorio
+# 📂 Índice de contenidos
 
-### 🔀 Ramas Activas
-| Rama | Estado | Descripción | Enlace |
-|------|--------|-------------|--------|
-| `main` | ![Main](https://img.shields.io/badge/🔒-Principal-blue) | Rama principal | - |
-| `entrega003` | ![Completed](https://img.shields.io/badge/✅-Finalizado-brightgreen) | Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/lostal/Trabajos-DSI/tree/entrega003) |
-| `entrega004` | ![En desarrollo](https://img.shields.io/badge/📈-En%20Progreso-bright) | Una App | [Ver entrega004](https://github.com/lostal/Trabajos-DSI/tree/entrega004)
-
----
-    
-
-## 👥 Miembros del Grupo
-
-| Integrante |
-|------------|
-| [Raúl Pelayo](https://github.com/RaulPlayo)              |
-| [Álvaro Lostal](https://github.com/lostal)               |
-| [Oscar Santamaría](https://github.com/oscarsantasanchez) |
-| [Andrea Aurrecoechea](https://github.com/andreaaurreco)  |
-| [Paula González](https://github.com/paulagonzalezfe)     |
-| [Jana Gandarillas](https://github.com/janagandarillas)   |
-| [Juan René Ixcopal](https://github.com/juanixcopal)      |
-| [Gerson Rafael Rivera](https://github.com/gerson1520)    |
