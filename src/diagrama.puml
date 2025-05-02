@@ -1,18 +1,20 @@
-@startmindmap
+@startwbs
 * App noCode
 ** Prototipado en Figma
 *** Diseño UI/UX
 *** Priorización de usabilidad e interacción
-** Implementación con Softr
+** Implementación en Softr
 *** Autenticación de usuarios
-*** Sistema dinámico de preguntas/respuestas
+*** Sistema de preguntas tipo test
+**** 10 preguntas
+**** Selección de respuestas
 *** Cálculo automático de puntuaciones
-**** +1 por acierto
+**** +1 punto por acierto
 **** -0.25 por error
 **** -0.125 por omisión
 ** Integración con Google Sheets
-*** Almacenamiento de respuestas de usuarios
-*** Gestión de contenido del test
-*** Visualización de estadísticas
+*** Almacenamiento de respuestas
 *** Gestión de usuarios
-@endmindmap
+*** Gestión del contenido del test
+*** Visualización de estadísticas
+@endwbs
