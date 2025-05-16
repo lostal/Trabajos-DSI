@@ -7,8 +7,8 @@
 
 | Concepto | Descripción | Costo mensual (€) | Costo anual (€) |
 |-|-|-|-|
-| **Softr (Plan Business)**            | Para tráfico alto, login, y funciones avanzadas        | 269 €             | 3228 €         |
-| **Google Workspace (1 usuario)**     | Para uso de hojas de cálculo en la nube     | 13,6 €             | 163,2 €            |
+| **[Softr (Plan Business)](https://www.softr.io/pricing)**            | Para tráfico alto, login, y funciones avanzadas, con precio anual te ahorras dos meses        | 269 €             | 3228 €         |
+| **[Google Workspace (1 usuario)](https://workspace.google.com/pricing?source=gafb-alpha_home_6803156-globalnav-es&uj=gafb-home_6803156-def-es&hl=es)**     | Para uso de hojas de cálculo en la nube, con compromiso de un año     | 13,6 €             | 163,2 €            |
 
 
 **Total anual aprox. (tecnología): 3391,2 €**
