@@ -1,4 +1,4 @@
-# 📋 Presupuesto para Questy
+# 📋 Presupuesto para Questy a fecha del 16 de mayo de 2025
 
 > Estimado para una aplicación con hasta **10.000 usuarios mensuales**, desarrollada en **Softr Studio** y conectada a **Google Sheets**.
 
